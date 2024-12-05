@@ -56,6 +56,9 @@ These key metrics illustrate the bank's solid performance in loan issuance, repa
 
 ### Visuals
 ![Visuals](https://github.com/user-attachments/assets/1d7c37c5-2c29-40ed-9349-214750cb72b7)
+![overview](https://github.com/user-attachments/assets/12329092-343f-432d-9847-203360437f4e)
+
+
 
 
 ### SQL Queries 
