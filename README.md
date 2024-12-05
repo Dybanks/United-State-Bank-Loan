@@ -17,8 +17,7 @@ The primary source of data used here is a financial loan data.csv and this is an
 - Insights and Recommendations
 
   ### Project Summary
-  Loan Applications
-The bank has processed a total of 38,580 loan applications.
+Loan Applications The bank has processed a total of 38,580 loan applications.
 Good loans account for 86% of the total applications, translating to 33,200 applications that meet the bank's credit criteria.
 Bad loans represent 13.8% of total applications, amounting to 5,000 applications.
 Funded Loans
