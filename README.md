@@ -11,5 +11,5 @@ The primary source of data used here is a financial loan data.csv and this is an
 - SQL
 - Power Bi
 
-### Table of Contents 
+## Table of Contents 
 - Project Summary ()
