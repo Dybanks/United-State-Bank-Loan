@@ -14,9 +14,9 @@ The primary source of data used here is a financial loan data.csv and this is an
 ## Table of Contents 
 [Project Summary](#project-summary)
 
-[SQL Queries Overview](#SQL-QUEIRES OVERVIEW)
+[SQL Queries](#sql-queries)
 
-[Insights and Recommendations](#Insights-and Recommendations)
+[Insights](#insights)
 
   ### Project Summary
 - Loan Applications: The bank has processed a total of 38,580 loan applications.
@@ -57,7 +57,8 @@ These key metrics illustrate the bank's solid performance in loan issuance, repa
 ### Visuals
 ![Visuals](https://github.com/user-attachments/assets/1d7c37c5-2c29-40ed-9349-214750cb72b7)
 
-### SQL Queries Overview
+
+### SQL Queries 
 ```SQL
 SELECT 
       (Count(Case
@@ -67,7 +68,7 @@ SELECT
 	 count(id) as Good_loan_Percentage
 from Bank_loan;
 ```
-### Insights and Recommendations
+### Insights
 1) Good Loan Segment Dominance:
  - The bank has a high percentage of good loan applications (86%), with significant contributions to funded ($370m) and received ($436m) amounts. This indicates strong creditworthiness among the majority of applicants.
  
